@@ -1,4 +1,4 @@
-# TemaOOP
+# MyOwnAutoShop - OOP_Project
 This is a repository for the Object Oriented Programming (OOP) project developed by Cristina Ciotlaus.
 
 The project consists of a Java program that implements various OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction. 
